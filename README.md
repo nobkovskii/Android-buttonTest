@@ -26,3 +26,5 @@
   * 「+ Create Virtual Device...」
   * Phone > Nexus 5X > Next > Release Name(Download) > Finish > Next > Finish
 * Run this App
+ * ![image](https://user-images.githubusercontent.com/43230951/58446397-8bcc8200-813b-11e9-9c90-fcee6a6b1ef7.png)
+ * ![image](https://user-images.githubusercontent.com/43230951/58446460-c46c5b80-813b-11e9-92e0-bfe8f0325563.png)
